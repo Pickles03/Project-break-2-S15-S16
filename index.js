@@ -1,0 +1,1 @@
+//main root file for the application with the server and database connection

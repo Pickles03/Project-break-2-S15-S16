@@ -1,0 +1,1 @@
+//using mongoose to define the schema for the product

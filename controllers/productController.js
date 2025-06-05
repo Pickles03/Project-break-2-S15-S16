@@ -1,0 +1,1 @@
+//manage CRUD operations for products

@@ -1,0 +1,1 @@
+//template for generating a template for a new file

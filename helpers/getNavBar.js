@@ -1,0 +1,1 @@
+// generates the navigation bar for the app
